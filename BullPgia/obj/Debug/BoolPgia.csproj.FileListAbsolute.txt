@@ -1,0 +1,9 @@
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\bin\Debug\BullPgia.exe
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\bin\Debug\BullPgia.pdb
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BoolPgia.csproj.AssemblyReference.cache
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BoolPgia.FormChances.resources
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BoolPgia.FormSelectColor.resources
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BoolPgia.csproj.GenerateResource.cache
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BoolPgia.csproj.CoreCompileInputs.cache
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BullPgia.exe
+C:\Users\Natan\OneDrive\לימודים\שנה ג\C#\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\A22 Ex05 AlexiBarkan 321043689 NatanGershbein 208980524\BullPgia\obj\Debug\BullPgia.pdb
